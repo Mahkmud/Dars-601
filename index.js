@@ -5,5 +5,5 @@ let amal = String(prompt("Amalni kiriting  (+,-,*,/)"));
 
 if (amal === "+"){
 let yigindi =son1=son2
-alert(son1 + "+" + son + "=" + yigindi)
+alert(son1 + "+" + son + "=" + yigindi)~
 }
